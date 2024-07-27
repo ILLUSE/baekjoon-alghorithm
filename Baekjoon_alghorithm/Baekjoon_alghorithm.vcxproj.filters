@@ -33,5 +33,17 @@
     <ClCompile Include="1541_잃어버린괄호.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1026_보물.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5585_거스름돈.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2217_로프.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10828_스택.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
