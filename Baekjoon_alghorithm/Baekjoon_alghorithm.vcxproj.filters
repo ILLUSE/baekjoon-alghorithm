@@ -96,5 +96,20 @@
     <ClCompile Include="2798_ 블랙잭.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="15829_Hashing.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1259_펠린드롬수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1546_평균.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2609_최대공약수와_최소공배수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1436_영화감독_숀.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
