@@ -111,5 +111,11 @@
     <ClCompile Include="1436_영화감독_숀.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10814_나이순정렬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1181_단어정렬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
